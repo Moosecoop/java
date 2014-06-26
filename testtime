@@ -1,1 +1,5 @@
-confirm
+confirm("Welcome To Test Time v0.1");
+var userScore = 0
+confirm("Click Ok");
+confirm("Step 1 Of Stage 1 Passed.");
+prompt("Type 'OK'")
